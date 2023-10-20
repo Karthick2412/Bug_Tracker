@@ -1,0 +1,35 @@
+body {
+    overflow: hidden; /* Hide scrollbars */
+  }
+.card{
+    margin-top: 5%;
+}
+label{
+    margin-bottom: 2%;
+}
+input{
+    padding: 4px;
+}
+.rightsideInput{
+    margin-left: 6%;
+}
+form{
+    padding: 1%;
+    margin-left: 5%;
+}
+.submitButton{
+    margin-top: 2%;
+    margin-left: 83%;
+    width: 100%;
+}
+.card-header{
+    background-color: gray;
+}
+/* .activeHeader{
+    color: white;
+    background-color: rgb(143, 4, 37);
+} */
+/* .card-body{
+    color: black;
+    background-image: url("https://www.webdesign.org/img_articles/20925/step01.gif.webp");
+} */
